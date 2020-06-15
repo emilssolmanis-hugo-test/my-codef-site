@@ -1,7 +1,7 @@
 ---
 title: "Hamster collecting"
 date: 2020-06-12T14:18:27+01:00
-draft: true
+draft: false
 ---
 # foofoo
 Collecting hamsters is amazing.
